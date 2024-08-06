@@ -1,0 +1,11 @@
+x=3
+y=2
+z=1
+print(x+y+z)
+#you will get 6
+x = float(1)     # x will be 1.0
+y = float(2.8)   # y will be 2.8
+z = float("3")   # z will be 3.0
+w = float("4.2") # w will be 4.2
+print(x+y+z+w)
+#you will get 11.0
