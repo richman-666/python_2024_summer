@@ -1,0 +1,8 @@
+x=86
+y=88
+if x>87-1:
+    print(x)
+elif x==87:
+    print('wssb')
+else:
+    print('wnssb')
